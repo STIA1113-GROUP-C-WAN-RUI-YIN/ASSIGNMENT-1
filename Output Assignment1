@@ -1,19 +1,35 @@
-************************************
-              TS House
-************************************
-Lot 1A, Orchid IT Mall, 
-Street 5, Casual Garden, 
-10000 State.
-CareLine : 1300-88-9876
-H/P: 012-3789654   FAX: 04-3789675
-************************************
-Welcome to TS House
-How can I help you?
+************************************************************************
+                             TS House
+************************************************************************
+                     Lot 1A, Orchid IT Mall, 
+                     Street 5, Casual Garden, 
+                     10000 State.
+                     CareLine : 1300-88-9876
+                     H/P: 012-3789654   FAX: 04-3789675
+************************************************************************
+
+Welcome to TS House !
+TS House is providing the service to upgrade the program in your smartwatch.
+This program namely TS-1 will contain a few main features in helping you to track your fitness and while exercising.
+
+   Firstly, by updating this program, you are able to set your daily goal for burning calories. This will motivates you and 
+enable you to make it a habit to exercise regularly.
+   Secondly, the smartwatch will display your speed of exercising. This is to give you an idea about your speed and you can 
+improve it by exercising regularly. 
+   By updating the program, you will know the amount of calories you will need to burn and the duration you still need to 
+exercise in order to achieve your daily goal. You will become satisfy and have self-confidence as you can achieve your
+daily goal. Besides, you will have an idea about the duration you still need to exercise and glad to keep going.
+   Simply put, this program will helps monitor your exercise. In long term, you are able to lead a healthy lifestyle and 
+stay away from health problems such as high blood pressure, obesity and atherosclerosis. 
+
+Are you interested in our TS-1 ?
 Please enter 1 for updating pogram. 
 1
 Updating .... Please wait
 
 Update suceeded. You are directed to the trial now.
+Please enter any integer to continue.
+1
 
 Dear user, what is your name? 
 WAN
@@ -36,7 +52,7 @@ Activity level :
 Please enter your activity level.
 1.2
 Hi WAN, Please enter your daily goal to burn calories.
-150
+200
 Please enter the distance traveled today in metres.
 200
 Please enter the time you have exercised today in minutes.
@@ -50,28 +66,33 @@ Your speed now is 20.0 m/min.
 
 By running at speed 20.0 m/min for 10.0 minutes, you can burn 25.00 calories. 
 
-You need to burn 125.00 more calories in order to achieve your daily goal.
+You need to burn 175.00 more calories in order to achieve your daily goal.
 WAN, keep going!
 
-You just need to exercise 50.0 minutes more to achieve your goal.
+You just need to exercise 70.0 minutes more to achieve your goal.
 WAN, keep it up! 
 
 Trial completed.
 Details successfully updated.
-Pogram successfully updated.
+
+Thank you for using the trial.
+Now, you will be directed to the payment for this program, TS-1.
+
+Please enter any integer to continue.
+1
 
 The fees for updating the pogram is RM 150.
 Today is our Grand Opening and you are one of our first 100 customers!
-Hence, we will have some discount for you. This will be the discount rate.
-Member: 20%, Non-member: 5%
+Hence, we will have some promotion.
+Discount for member: 20%, Discount for non-member: 5%
 
-The membership costs RM10 and it is for lifetime.
+The membership costs RM 10 and it is for lifetime.
 The final price that you need to pay will be RM 128 only as our member.
 However, for non-member, you will need to pay RM 142.50.
 Please enter 1 to register for our member.
 1
 Please enter 128 to continue your payment.
-128
+28
 
 Dear WAN, here is your receipt.
 
@@ -93,8 +114,8 @@ Discount rate, %:             20.00
 Discount price  :         RM  32.00
 Final price     :         RM 128.00
 ____________________________________
-Amount paid     :         RM 128.00
-Change          :         RM   0.00
+Amount paid     :         RM 28.00
+Change          :         RM   -100.00
 
 
 
